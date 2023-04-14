@@ -14,3 +14,6 @@ QUESTION 4: Make a plot of radius vs. mass of all the planets in the dataset and
 QUESTION 5: Make a plot of radius vs. stellar metallicity and mass vs. stellar metallicity for all the planets. Use linear/log scale as required. Comment on the plot. 
 
 QUESTION 6: Plot the density of all the planets (that have both mass and radius) as a function of their radius. Comment on the plot.
+
+
+Contained within this repository is a Python program capable of responding to all of these inquiries, along with an attached PDF file that furnishes the corresponding answers.
